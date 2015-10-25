@@ -1,0 +1,23 @@
+name: DigitalResearch
+favicon: null
+layout_spectrum: 0.4018025635741651
+typography_spectrum: 0.8952464894391596
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.818071843823418
+  lightness: 0.4554775217548013
+  saturation: 0.45190782379359007
+  rhythmicContrast: 0.4786497715394944
+purpose: []
